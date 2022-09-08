@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a235e4d-b3fd-4f13-887f-d93aa6810595" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adong/base/tree/Solution98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adong/base/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/basic/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/basic/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/basic/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/basic/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/ArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/ArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/CircleArrayQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/CircleArrayQueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/SingleLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/SingleLinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/demo/SparseArr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/question/TNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/question/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/question/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/base/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/sort/solution/BaseSortDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/tree/Solution105$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/tree/Solution105.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/tree/TreeOrder$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/beiting/tree/TreeOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adong/base/tree/Solution105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adong/base/tree/Solution105.java" afterDir="false" />
-    </list>
+    <list default="true" id="8a235e4d-b3fd-4f13-887f-d93aa6810595" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/TreeOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="357">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -112,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/Solution105.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="45">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -121,17 +89,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/Solution98.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+            <state relative-caret-position="395">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -580,7 +548,7 @@
     <property name="SearchEverywhereHistoryKey" value="ReenTrant&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662648369463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1662649007877" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -677,18 +645,18 @@
       <workItem from="1661693011031" duration="22000" />
       <workItem from="1662377113324" duration="728000" />
       <workItem from="1662481088848" duration="4657000" />
-      <workItem from="1662543328126" duration="12486000" />
+      <workItem from="1662543328126" duration="12630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56905000" />
+    <option name="totallyTimeSpent" value="57049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759036" visible="true" weight="0.17310444" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759036" visible="true" weight="0.17310444" />
       <window_info id="Structure" order="1" sideWeight="0.50240964" side_tool="true" weight="0.1602289" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -702,7 +670,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -897,31 +865,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/TreeOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/Solution98.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="395">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/Solution105.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="45">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="189">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/Solution98.java">
+    <entry file="file://$PROJECT_DIR$/src/com/adong/base/tree/TreeOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+        <state relative-caret-position="357">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
