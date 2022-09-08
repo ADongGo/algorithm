@@ -14,12 +14,6 @@ public class Solution105 {
         solution.buildTree(preorder, inorder);
     }
 
-    class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
 
         return rec(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1);
