@@ -18,7 +18,7 @@ public class MergeSort implements Sort {
     private void mergeSortDC(int[] array, int l, int r, int[] temp) {
         // 终止条件
         if (l >= r) return;
-        int m = (l + r) / 2;
+        int m = ((l - r) >> 1) + r;
         // 分治
         mergeSortDC(array, l, m, temp);
         mergeSortDC(array, m + 1, r, temp);

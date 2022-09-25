@@ -7,13 +7,20 @@ package com.adong.base.search;
  */
 public class BinarySearch {
 
+    public static void main(String[] args) {
+
+        int[] array = new int[]{2, 3, 5, 5, 5, 6, 7};
+        BinarySearch search = new BinarySearch();
+        System.out.println(search.binarySearchLast(array, 5));
+    }
+
     public int binarySearchNoRecursive(int[] array, int k) {
 
         if (array == null || array.length == 0) return -1;
         int left = 0;
         int right = array.length - 1;
         while(left <= right) {
-            int mid = (right - left) >> 2 + left;
+            int mid = ((right - left) >> 1) + left;
             if (k == array[mid]) {
                 return mid;
             } else if (k > array[mid]) {
@@ -48,7 +55,6 @@ public class BinarySearch {
 
     /**
      * 二分查找，找到第一个符合的数
-     *
      */
     public int binarySearchFirst(int[] array, int k) {
 
@@ -65,6 +71,29 @@ public class BinarySearch {
                 return mid;
             } else {
                 right = mid - 1;
+            }
+        }
+        return -1;
+    }
+
+    /**
+     * 二分查找，找到最后一个符合的数
+     */
+    public int binarySearchLast(int[] array, int k) {
+
+        if (array == null || array.length == 0) return -1;
+        int left = 0;
+        int right = array.length - 1;
+        while(left <= right) {
+            int mid = ((right - left) >> 1) + left;
+            if(k > array[mid]) {
+                left = mid + 1;
+            } else if(k < array[mid]) {
+                right = mid - 1;
+            } else if(mid == array.length - 1 || k != array[mid + 1]) {
+                return mid;
+            } else {
+                left = mid + 1;
             }
         }
         return -1;
